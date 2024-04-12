@@ -20,6 +20,6 @@
     "extends": "next"
   },
   "devDependencies": {
-    "eslint": "^8.57.0"
+    "eslint": "^9.0.0"
   }
 }
