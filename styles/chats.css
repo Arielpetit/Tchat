@@ -1,9 +1,9 @@
 .shadow {
   box-shadow: 0 2px 15px rgb(0 0 0 / 68%);
-  width: calc(132vw - 140px);
+  width: 390px;
   position: relative;
   top: calc(20vh - 144px - 100px);
-  left: calc(52vw - 220px - 100px);
+  right: 100px;
 }
 
 /* Chat List */
